@@ -3,7 +3,7 @@ public class Registration
 {
     public bool oldEnough = true;
     
-    public int ValidateAge(oldEnough){
+    public void ValidateAge(oldEnough){
         
         if(oldEnough){
             return "old enough";
@@ -12,6 +12,7 @@ public class Registration
             return "";
     }   
 }
+
 
 
 
