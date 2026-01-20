@@ -5,13 +5,14 @@ public class Registration
     
     public int ValidateAge(oldEnough){
         
-        if(oldEnough = true){
+        if(oldEnough){
             return "old enough";
         }
         
             return "";
     }   
 }
+
 
 
 
