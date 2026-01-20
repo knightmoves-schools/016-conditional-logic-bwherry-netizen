@@ -1,5 +1,16 @@
 ﻿namespace knightmoves;
 public class Registration
 {
-    // Add your code here
+    public int ValidateAge() {
+    public bool oldEnough = true;
+        
+        if(oldEnough) = true {
+            return "old enough";
+        }
+        
+        if(oldEnough) = false { 
+            return "";
+        }   
+    }
 }
+
