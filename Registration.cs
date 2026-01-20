@@ -3,16 +3,16 @@ public class Registration
 {
     public bool oldEnough = true;
     
-    public int ValidateAge() {
+    public int ValidateAge(){
         
-        if(oldEnough) = true {
+        if(oldEnough){
             return "old enough";
         }
         
-        if(oldEnough) = false { 
             return "";
         }   
     }
 }
+
 
 
