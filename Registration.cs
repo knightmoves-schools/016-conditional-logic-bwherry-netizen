@@ -4,7 +4,7 @@ public class Registration
     
     public string ValidateAge(){
 
-        public bool oldEnough = true;
+        bool oldEnough = true;
         
         if(oldEnough){
             return "old enough";
@@ -12,6 +12,7 @@ public class Registration
             return "";
     }   
 }
+
 
 
 
