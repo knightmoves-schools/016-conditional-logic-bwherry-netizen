@@ -1,9 +1,8 @@
 ﻿namespace knightmoves;
 public class Registration
 {
-    
     public string ValidateAge(oldEnough){
-        bool oldEnough = true;
+        public bool oldEnough = true;
 
         if(oldEnough){
             return "old enough";
@@ -12,6 +11,7 @@ public class Registration
         return "";
     }
 }
+
 
 
 
