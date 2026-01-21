@@ -1,4 +1,4 @@
-se﻿namespace knightmoves;
+﻿namespace knightmoves;
 public class Registration
 {
     public string ValidateAge(bool oldEnough){
@@ -14,6 +14,7 @@ public class Registration
         }
     }
 }
+
 
 
 
