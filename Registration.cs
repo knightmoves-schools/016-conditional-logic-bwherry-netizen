@@ -2,16 +2,19 @@
 public class Registration
 {
     
-    public string ValidateAge(){
-
+    public string ValidateAge(oldEnough){
         bool oldEnough = true;
-        
+
         if(oldEnough){
             return "old enough";
         }
-            return "";
-    }   
+
+        return "";
+    }
+
+    return S"{ValidateAge}"
 }
+
 
 
 
